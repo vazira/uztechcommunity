@@ -1,0 +1,67 @@
+p{
+   color: pink;
+   font-size: 16px;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 60px;
+}
+h2 {
+  font-family: green;
+  font-size: 23px;
+}
+h3 {
+  font-family: green;
+  font-size: 25px;
+}
+
+.block {
+  display: square;
+  height: 40px;
+  background-color: pink;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.outside-button{
+  text-align: justify;
+}
+
+body {
+background: linear-gradient(#e66465, #9198e5);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+
+.menu {
+  list-style: none;
+  background-color: pink;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.menu li {
+float: left;
+}
+
+.menu li a{
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.block1{
+display: square;
+height: 40px;
+background-color: pink;
+color: white;
+font-size: 25px;
+text-align: center;
+}

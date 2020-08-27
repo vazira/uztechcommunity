@@ -1,0 +1,18 @@
+p{
+  color: pink;
+  font-size:16px;
+}
+h1 {
+  font-family: pink;
+  font-size: 60px;
+}
+
+
+
+
+body {
+background: linear-gradient(#e66465, #9198e5);
+background-size: 800% 800%;
+background-repeat: no-repeat;
+background-position: center;
+}
